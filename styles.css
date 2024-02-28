@@ -7,3 +7,22 @@ li button {
   margin-left: 20px;
   color: #666;
 }
+
+body {
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+    background-color: darksalmon;
+  }
+
+  button {
+    background-color: cornflowerblue;
+    font-weight: bolder;
+  }
+
+  label {
+    font-weight: bolder;
+    color: blue;
+
+  }
